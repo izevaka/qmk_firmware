@@ -68,9 +68,9 @@
     ],
     [
       "KC_GRV",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "LCTL(KC_1)",
+      "LCTL(KC_2)",
+      "LCTL(KC_3)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
