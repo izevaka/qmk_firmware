@@ -193,7 +193,7 @@
       "KC_RGHT"
     ],
     [
-      "TO(0)",
+      "KC_GRV",
       "LCTL(KC_1)",
       "LCTL(KC_2)",
       "KC_TRNS",
@@ -208,9 +208,9 @@
       "LCTL(KC_TAB)",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "LCTL(KC_E)",
+      "LCTL(KC_R)",
+      "LCTL(KC_T)",
       "KC_HOME",
       "KC_PGDN",
       "KC_PGUP",
